@@ -1,6 +1,7 @@
 
 
 #include <iostream>
+//codice per creare una calcolatrice
 using namespace std;
 
 
